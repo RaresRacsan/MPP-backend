@@ -1,0 +1,22 @@
+# Compiled files
+target/
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# Environment variables
+.env
+application.properties
+application.yml
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+*.iml
